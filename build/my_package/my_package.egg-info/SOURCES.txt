@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+/home/rohan/dev_ws/build/my_package/my_package.egg-info/PKG-INFO
+/home/rohan/dev_ws/build/my_package/my_package.egg-info/SOURCES.txt
+/home/rohan/dev_ws/build/my_package/my_package.egg-info/dependency_links.txt
+/home/rohan/dev_ws/build/my_package/my_package.egg-info/entry_points.txt
+/home/rohan/dev_ws/build/my_package/my_package.egg-info/requires.txt
+/home/rohan/dev_ws/build/my_package/my_package.egg-info/top_level.txt
+/home/rohan/dev_ws/build/my_package/my_package.egg-info/zip-safe
+my_package/__init__.py
+my_package/my_node.py
+resource/my_package
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
